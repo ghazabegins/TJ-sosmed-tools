@@ -1,7 +1,5 @@
 # 🚀 TJ SOSMED TOOLS
 
-![TJ Sosmed Tools Logo](https://tiangjauh.web.id/book/logo.PNG)
-
 > **All-in-One Web Tools untuk Konten Kreator & Fotografer.**
 >
 > *Download media, edit foto massal, analisa metadata, hingga riset konten dalam satu dashboard.*
